@@ -1,0 +1,4 @@
+Daniel de Leon and Anna Kim wrote both the paper and the code together. Decisions were made democratically.
+We used the nltk to tokenize and pos-tag the data.
+We used the gensim library to create and train the models for each song genre.
+Resources: Google, StackOverflow, sematext article (mentioned in our paper)
